@@ -1,0 +1,16 @@
+$headerColor :#007bff;
+.TodoHeaders .TodoHead{
+    text-align: center;
+    font-size: 2.5em;
+    color: $headerColor;
+}
+.List .ListHeader{
+    font-size: 1.5em;
+    color: $headerColor;
+}
+.ListUl .ListItem{
+    list-style-type:upper-roman;
+}
+.ListUl .ListItem .item{
+    font-size: 1.2em;
+}
